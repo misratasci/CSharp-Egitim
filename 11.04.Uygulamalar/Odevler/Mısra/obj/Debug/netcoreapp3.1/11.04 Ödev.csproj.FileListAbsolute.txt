@@ -1,0 +1,26 @@
+C:\Users\misratasci\Documents\GitHub\CSharp Eğitimi\11.04.Uygulamalar\Odevler\Mısra\11.04 Ödev\bin\Debug\netcoreapp3.1\11.04 Ödev.exe
+C:\Users\misratasci\Documents\GitHub\CSharp Eğitimi\11.04.Uygulamalar\Odevler\Mısra\11.04 Ödev\bin\Debug\netcoreapp3.1\11.04 Ödev.deps.json
+C:\Users\misratasci\Documents\GitHub\CSharp Eğitimi\11.04.Uygulamalar\Odevler\Mısra\11.04 Ödev\bin\Debug\netcoreapp3.1\11.04 Ödev.runtimeconfig.json
+C:\Users\misratasci\Documents\GitHub\CSharp Eğitimi\11.04.Uygulamalar\Odevler\Mısra\11.04 Ödev\bin\Debug\netcoreapp3.1\11.04 Ödev.runtimeconfig.dev.json
+C:\Users\misratasci\Documents\GitHub\CSharp Eğitimi\11.04.Uygulamalar\Odevler\Mısra\11.04 Ödev\bin\Debug\netcoreapp3.1\11.04 Ödev.dll
+C:\Users\misratasci\Documents\GitHub\CSharp Eğitimi\11.04.Uygulamalar\Odevler\Mısra\11.04 Ödev\bin\Debug\netcoreapp3.1\11.04 Ödev.pdb
+C:\Users\misratasci\Documents\GitHub\CSharp Eğitimi\11.04.Uygulamalar\Odevler\Mısra\11.04 Ödev\obj\Debug\netcoreapp3.1\11.04 Ödev.csprojAssemblyReference.cache
+C:\Users\misratasci\Documents\GitHub\CSharp Eğitimi\11.04.Uygulamalar\Odevler\Mısra\11.04 Ödev\obj\Debug\netcoreapp3.1\11.04 Ödev.AssemblyInfoInputs.cache
+C:\Users\misratasci\Documents\GitHub\CSharp Eğitimi\11.04.Uygulamalar\Odevler\Mısra\11.04 Ödev\obj\Debug\netcoreapp3.1\11.04 Ödev.AssemblyInfo.cs
+C:\Users\misratasci\Documents\GitHub\CSharp Eğitimi\11.04.Uygulamalar\Odevler\Mısra\11.04 Ödev\obj\Debug\netcoreapp3.1\11.04 Ödev.csproj.CoreCompileInputs.cache
+C:\Users\misratasci\Documents\GitHub\CSharp Eğitimi\11.04.Uygulamalar\Odevler\Mısra\11.04 Ödev\obj\Debug\netcoreapp3.1\11.04 Ödev.dll
+C:\Users\misratasci\Documents\GitHub\CSharp Eğitimi\11.04.Uygulamalar\Odevler\Mısra\11.04 Ödev\obj\Debug\netcoreapp3.1\11.04 Ödev.pdb
+C:\Users\misratasci\Documents\GitHub\CSharp Eğitimi\11.04.Uygulamalar\Odevler\Mısra\11.04 Ödev\obj\Debug\netcoreapp3.1\11.04 Ödev.genruntimeconfig.cache
+C:\Users\misratasci\Documents\GitHub\CSharp-Egitim\11.04.Uygulamalar\Odevler\Mısra\bin\Debug\netcoreapp3.1\11.04 Ödev.exe
+C:\Users\misratasci\Documents\GitHub\CSharp-Egitim\11.04.Uygulamalar\Odevler\Mısra\bin\Debug\netcoreapp3.1\11.04 Ödev.deps.json
+C:\Users\misratasci\Documents\GitHub\CSharp-Egitim\11.04.Uygulamalar\Odevler\Mısra\bin\Debug\netcoreapp3.1\11.04 Ödev.runtimeconfig.json
+C:\Users\misratasci\Documents\GitHub\CSharp-Egitim\11.04.Uygulamalar\Odevler\Mısra\bin\Debug\netcoreapp3.1\11.04 Ödev.runtimeconfig.dev.json
+C:\Users\misratasci\Documents\GitHub\CSharp-Egitim\11.04.Uygulamalar\Odevler\Mısra\bin\Debug\netcoreapp3.1\11.04 Ödev.dll
+C:\Users\misratasci\Documents\GitHub\CSharp-Egitim\11.04.Uygulamalar\Odevler\Mısra\bin\Debug\netcoreapp3.1\11.04 Ödev.pdb
+C:\Users\misratasci\Documents\GitHub\CSharp-Egitim\11.04.Uygulamalar\Odevler\Mısra\obj\Debug\netcoreapp3.1\11.04 Ödev.csprojAssemblyReference.cache
+C:\Users\misratasci\Documents\GitHub\CSharp-Egitim\11.04.Uygulamalar\Odevler\Mısra\obj\Debug\netcoreapp3.1\11.04 Ödev.AssemblyInfoInputs.cache
+C:\Users\misratasci\Documents\GitHub\CSharp-Egitim\11.04.Uygulamalar\Odevler\Mısra\obj\Debug\netcoreapp3.1\11.04 Ödev.AssemblyInfo.cs
+C:\Users\misratasci\Documents\GitHub\CSharp-Egitim\11.04.Uygulamalar\Odevler\Mısra\obj\Debug\netcoreapp3.1\11.04 Ödev.csproj.CoreCompileInputs.cache
+C:\Users\misratasci\Documents\GitHub\CSharp-Egitim\11.04.Uygulamalar\Odevler\Mısra\obj\Debug\netcoreapp3.1\11.04 Ödev.dll
+C:\Users\misratasci\Documents\GitHub\CSharp-Egitim\11.04.Uygulamalar\Odevler\Mısra\obj\Debug\netcoreapp3.1\11.04 Ödev.pdb
+C:\Users\misratasci\Documents\GitHub\CSharp-Egitim\11.04.Uygulamalar\Odevler\Mısra\obj\Debug\netcoreapp3.1\11.04 Ödev.genruntimeconfig.cache
